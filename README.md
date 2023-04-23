@@ -4,96 +4,44 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Info
+---
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+__Name__: 한인철  
+__Position__: Jeju univ. student  
 
-## Features
+__Describe__:  
+&emsp; <__게임 개발__  __인공지능__ , __컴퓨터 그래픽스__를 공부하고 있는 대학생입니다.  
+&emsp; 일상 생활에 게임을 접목하는 Gamification을 중요시 생각하며, 다양한 언어으로 게임을 만드는 것 목표압니다.  
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+__Development__  
+&emsp; JejuOreum: 오름을 아우름 (Team.Crazy4Game) ~ 2020.10  
+&emsp; &nbsp; 제주도 오름 정보를 제공하고 AR을 이용하여 정상에 오름을 체험 할 수 있는 앱  
+&emsp; &nbsp; 오름 자료와 관련된 DB 관리 및 UI 제작  
 
-## Based on
+__Contact__  
+&emsp; E-mail: [ironin0923@gmail.com](mailto:ironin0923@gmail.com)  
+&emsp; Github: https://github.com/ironin0923 [.]  
+&emsp; Discord: 담청잎#8062
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## Language
+---
 
-## Installation (jekyll-remote-theme method)
+__Using__  
+1. C /C++ /C#
+2. python
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+__Studying__
+1. Java - Kotlin
+2. Dart
+3. SQL
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## Dev Tools
+---
 
-plugins:
-  - jekyll-remote-theme
-```
+1. Github
+2. Unity
+3. Android Studio
+4. VS / VSCode
 
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+[.]: https://github.com/InZury

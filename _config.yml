@@ -16,14 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-  - {file: "Favorite.md"}
+  - {icon: file, file: "index.html"}
+  - {icon: address-card, file: "README.md"}
+  - {icon: star, file: "Favorite.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "InZury0923@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:ironin0923@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/InZury"}
-# - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

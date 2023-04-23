@@ -1,6 +1,6 @@
 title: "InZury"
 author: "한인철"
-description: "All of <b style=\"color: #3e92b5;\">&lt;Gamification</b>"       "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "All of <b style=\"color: #3e92b5;\">&lt;Gamification</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

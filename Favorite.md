@@ -16,6 +16,6 @@ layout: page
 [__Blender with Unreal Engine__]  
 &nbsp; Unreal Engine에서 즉각적으로 Blender를 사용하여 반영할 수 있는 기능  
  
- [__3d_game_shader_for_beginners__  ]: <https://github.com/ironin0923/3d-game-shaders-for-beginners>
+ [__3d game shader for beginners__]: <https://github.com/ironin0923/3d-game-shaders-for-beginners>
  [__ISPCTextureCompressor__]: <https://github.com/ironin0923/ISPCTextureCompressor>
  [__Blender with Unreal Engine__]: <https://github.com/ironin0923/Blender-For-UnrealEngine-Addons>

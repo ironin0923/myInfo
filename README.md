@@ -10,9 +10,9 @@ layout: page
 __Name__: 한인철  
 __Position__: Jeju univ. student  
 
-__Describe__:  
-&emsp; <__게임 개발__  __인공지능__ , __컴퓨터 그래픽스__를 공부하고 있는 대학생입니다.  
-&emsp; 일상 생활에 게임을 접목하는 Gamification을 중요시 생각하며, 다양한 언어으로 게임을 만드는 것 목표압니다.  
+__Describe__  
+&emsp; __게임 개발__ 및 __인공지능__ , __컴퓨터 그래픽스__를 공부하고 있는 대학생입니다.  
+&emsp; 일상 생활에 게임을 접목하는 Gamification을 중요시 생각하며, 다양한 언어으로 게임을 만드는 것 목표니다.  
 
 __Development__  
 &emsp; JejuOreum: 오름을 아우름 (Team.Crazy4Game) ~ 2020.10  
@@ -23,6 +23,7 @@ __Contact__
 &emsp; E-mail: [ironin0923@gmail.com](mailto:ironin0923@gmail.com)  
 &emsp; Github: https://github.com/ironin0923 [.]  
 &emsp; Discord: 담청잎#8062
+
 
 ## Language
 ---
@@ -35,6 +36,7 @@ __Studying__
 1. Java - Kotlin
 2. Dart
 3. SQL
+
 
 ## Dev Tools
 ---

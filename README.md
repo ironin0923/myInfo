@@ -20,7 +20,7 @@ __Development__
 &emsp; &nbsp; 오름 자료와 관련된 DB 관리 및 UI 제작  
 
 __Contact__  
-&emsp; E-mail: [ironin0923@gmail.com]  
+&emsp; E-mail: [ironin0923@gmail.com](mailto:ironin0923@gmail.com)
 &emsp; Github: https://github.com/ironin0923 [.]  
 &emsp; Discord: 담청잎#8062
 
@@ -44,5 +44,4 @@ __Studying__
 3. Android Studio
 4. VS / VSCode
 
-[ironin0923@gmail.com]: (mailto:ironin0923@gmail.com)
 [.]: https://github.com/InZury

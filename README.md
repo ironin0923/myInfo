@@ -21,7 +21,7 @@ __Development__
 
 __Contact__  
 &emsp; E-mail: [ironin0923@gmail.com](mailto:ironin0923@gmail.com)  
-&emsp; Github: https://github.com/ironin0923 [.]  
+&emsp; Github: [ironin0923]  [.]  
 &emsp; Discord: 담청잎#8062
 
 
@@ -47,3 +47,4 @@ __Studying__
 4. VS / VSCode
 
 [.]: https://github.com/InZury
+[ironin0923]: https://github.com/ironin0923
